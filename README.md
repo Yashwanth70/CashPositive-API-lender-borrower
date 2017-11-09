@@ -38,5 +38,9 @@ npm install
 ```
 npm run start
 ``` 
+### For running the Mongo Server,go to path---C:/MongoDB/Server/3.4/bin/--- and run the command :
+```
+mongod
+```
 
-and navigate to POSTMAN to check the API's.
+and then  navigate to POSTMAN to check the API's.
